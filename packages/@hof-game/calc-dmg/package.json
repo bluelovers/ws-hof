@@ -1,6 +1,6 @@
 {
   "name": "@hof-game/calc-dmg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [
     "Hall-of-Fame",
@@ -31,9 +31,6 @@
     "ncu": "yarn-tool ncu -u",
     "sort-package-json": "yarn-tool sort"
   },
-  "dependencies": {},
-  "devDependencies": {},
-  "peerDependencies": {},
   "publishConfig": {
     "access": "public"
   }
