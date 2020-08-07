@@ -8,7 +8,7 @@ Object {
   "LUK": 1,
   "MAXHP": 140,
   "MAXSP": 80,
-  "SP": 140,
+  "SP": 80,
   "SPD": 5,
   "STR": 8,
 }
