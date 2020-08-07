@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mon mon.1000.yml 1`] = `
+Object {
+  "DEX": 5,
+  "HP": 140,
+  "INT": 3,
+  "LUK": 1,
+  "MAXHP": 140,
+  "MAXSP": 80,
+  "SP": 140,
+  "SPD": 5,
+  "STR": 8,
+}
+`;
